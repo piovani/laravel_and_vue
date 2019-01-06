@@ -29,6 +29,7 @@
 
 <script>
 export default {
+  name: 'Topo',
   props: ['titulo', 'url']
 }
 </script>
