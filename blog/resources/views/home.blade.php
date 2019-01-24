@@ -8,9 +8,8 @@
 
                     <div class="row">
                         <div class="col-md-4">
-                            <painel titulo="Conteudo 1" cor="blue">
-                                teste de conteudo 1
-                            </painel>
+                            <caixa>
+                            </caixa>
                         </div>
 
                         <div class="col-md-4">
